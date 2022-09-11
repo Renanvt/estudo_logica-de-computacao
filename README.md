@@ -14,4 +14,4 @@
 
 ![Imgur](https://i.imgur.com/U3gp3M7.png)
 
-<img src ="https://i.imgur.com/cHxyY1s.png" width="250">
+![Imgur](https://i.imgur.com/cHxyY1s.png)
