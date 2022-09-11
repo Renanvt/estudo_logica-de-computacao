@@ -4,7 +4,7 @@
 
 [Circuitos](#circuitos)
 
-[Exercícios Extras](#)
+[Exercícios Extras](#exercícios-extras)
 
 # Lógica Matemática
 
@@ -78,7 +78,14 @@
 
 ![Imgur](https://i.imgur.com/UKegvcc.png)
 
+
+
+
 # [👆 TÓPICOS](#tópicos)
+
+
+
+
 
 # Circuitos
 
@@ -134,6 +141,14 @@
 
 ![Imgur](https://i.imgur.com/SKfhN5I.png)
 
+
+
+# [👆 TÓPICOS](#tópicos)
+
+
+
+# Exercícios Extras
+
 ![Imgur](https://i.imgur.com/C23awZl.png)
 
 ![Imgur](https://i.imgur.com/SEjN6En.png)
@@ -153,3 +168,5 @@
 ![Imgur](https://i.imgur.com/d9UOpNS.png)
 
 ![Imgur](https://i.imgur.com/mWvsGUz.png)
+
+# [👆 TÓPICOS](#tópicos)
