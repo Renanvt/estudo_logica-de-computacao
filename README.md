@@ -14,4 +14,4 @@
 
 ![Imgur](https://i.imgur.com/U3gp3M7.png)
 
-![Imgur](https://i.imgur.com/cHxyY1s.png = 250x520)
+<img src ="https://i.imgur.com/cHxyY1s.png" width="250">
