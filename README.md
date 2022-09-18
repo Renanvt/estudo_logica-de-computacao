@@ -4,7 +4,7 @@
 
 [Teoria dos Cojuntos](https://github.com/Renanvt/logica-de-computacao/blob/main/Teoria-dos-Conjuntos.md)
 
-[Relações]()
+[Relações](https://github.com/Renanvt/logica-de-computacao/blob/main/Relacoes.md)
 
-[Aplicações a Computação]()
+[Aplicações a Computação](https://github.com/Renanvt/logica-de-computacao/blob/main/Aplicacoes-a-Computacao.md)
 
